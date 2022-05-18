@@ -1,6 +1,6 @@
 # hundred_days_of_challenge
 
-A new Flutter project.
+Shun's personal flutter project!
 
 ## Getting Started
 
